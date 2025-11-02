@@ -1,2 +1,3 @@
-let botToken = "7525619720:AAEHPtasrqfDXeZDAamnb55cGJhR8oQghg8";  
-let chatId = "6724054032"; 
+let botToken = "6298320462:AAFgjEjGy0udiRNZRG1VVpooKYyQpj4UF6U";  
+
+let chatId = "6000036430"; 
